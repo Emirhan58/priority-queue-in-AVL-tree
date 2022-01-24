@@ -1,0 +1,16 @@
+
+**EK BİLGİLENDİRME**
+
+-Hem makefile yanında hem de bin klasörü içerisinde Noktalar.txt dosyası bulunmaktadır.
+-mingw32-make yaparken makefile yanındaki Noktalar.txt dosyası okunup bin klasörü içerisine kopyalanır.
+-Test.exe çalışırken ise bin klasörü içerisindeki Noktalar.txt dosyası okunacaktır.
+
+**ÖNERİLER**
+
+-Programın çalıştığını gösteren ekran görüntüleri doc klasörü içerisinde gösterilebilir. Bu mağduriyeti de azaltabilir.
+-Ödev yapıldıktan sonra öğrencilerin ödevi yüzyüze anlatması istenilebilir, sorular sorulabilir. Böylece başkalarına ödev
+yaptıranların önüne geçilebilir.
+
+**ÖZEL MESAJ**
+-Bu ödev AVL ağacındaki dengeleme işlemlerini ve öncelikli kuyruğun nasıl kullanılabileceğini anlamama çok yardımcı oldu.  
+ Efektif bir ödev verdiğiniz için şahsım adına teşekkür ederim.
